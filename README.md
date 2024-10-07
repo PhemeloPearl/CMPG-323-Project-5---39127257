@@ -53,3 +53,24 @@ The report is accessible to all relevant stakeholders, and the data displayed is
 
 - [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
 - [NWU Tech Trends Support](mailto:support@nwu-techtrends.com)
+
+## References
+OpenAI. (2024) ChatGPT: Language model overview. Available at: https://openai.com/research/chatgpt (Accessed: 6 October 2024).
+
+Meta. (2024) Meta AI integration in WhatsApp. Available at: https://ai.meta.com/whatsapp-ai/ (Accessed: 6 October 2024).
+
+Power BI Team. (2024) Power BI Desktop: Create and share interactive reports. Available at: https://powerbi.microsoft.com/desktop/ (Accessed: 6 October 2024).
+
+Healy, M. (2021) Mastering Power BI: Building custom visuals. 2nd edn. London: Pearson Education.
+
+Project Management Institute (PMI). (2017) A guide to the project management body of knowledge (PMBOK guide). 6th edn. Pennsylvania: Project Management Institute.
+
+Marr, B. (2022) Data strategy: How to profit from a world of big data, analytics and AI. 2nd edn. New York: Kogan Page.
+
+Microsoft Corporation. (2024) Using AI features in Power BI for predictive analytics. Available at: https://docs.microsoft.com/en-us/power-bi/ai-insights (Accessed: 4 October 2024).
+
+Wickham, H. and Grolemund, G. (2017) R for data science: Import, tidy, transform, visualize, and model data. Sebastopol: O'Reilly Media.
+
+Boggess, L. (2020) Artificial Intelligence: Building AI systems with practical applications. London: Apress.
+
+Davenport, T. and Harris, J. (2017) Competing on analytics: The new science of winning. 3rd edn. Boston: Harvard Business Review Press.
